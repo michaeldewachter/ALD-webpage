@@ -2296,7 +2296,7 @@ form iframe.mail-list-form {
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
-  bottom: -17px;
+  bottom: 0px;
   left: 0;
 }
 .text-tabs .active .tab-title {
